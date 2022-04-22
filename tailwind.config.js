@@ -13,7 +13,7 @@ module.exports = {
         brightRedLight: "#ff4d6d",
         brightRedSubLight: "#e5383b",
         darkBlue: "#023e7d",
-        darkGrayishBlue: "#023047",
+        darkGrayishBlue: "#8e9aaf",
         veryDarkBlue: "#001233",
         veryPalRed: "#f25c54",
         veryLightGray: "#f25c54",
